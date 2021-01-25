@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## _IT'S THE PROFILE FOR_ **bdboogie**
 
-You can use the [editor on GitHub](https://github.com/bdboogie/bdboogie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Hi there I'm John
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+If I ever find a decent photo  I'll added it... dont hold your breath.
 ```
+Most of my life has been spent living in and around Leeds with a brief 3 year stint studying in Newcastle (back in the heady days of Maddisons, Walkers and Ritzys).
+Work wise I am currently working remotely as part of  a Product Team providing online services in the finance sector.
+I've been around a bit so we wont go in to age but I have three kids all at school with youngest half the age of the eldest, (does that help?).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Why I'm doing this
+I'm curious about everything , I have to know how things work, usually by breaking them to see if they can be fixed.  I've been playing at building sites for years but only at a hobbyist level, it would be nice not to have to crib the funkier work of others and code the trickier bits (JavaScript) from scratch, so my aims for the course are:
+1. Learn through collaboration;
+2. Pick up a better understanding of modern tools & techniques for web development; and,
+3. Move towards a more profession way of developing sites.
 
-### Jekyll Themes
+### What makes me Happy?
+Obviously I have to say my family , but I do like to sneak away for a round of golf when circumstances permit.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bdboogie/bdboogie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_So thats me ..._
