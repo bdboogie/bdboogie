@@ -1,0 +1,48 @@
+---
+layout: layout/post.njk
+title: Functions and Control Flow
+templateClass: tmpl-post
+eleventyNavigation:
+    key: Functions and Control Flow
+    order:3
+---
+<p> you'll need to open your browser console for this</p>
+<script type="text/javascript">
+//task2
+var percentage = 10, 
+
+
+function drinkOrder(size, drink) {
+    switch(drink){
+        case 'cola':arguments
+            return outputDrinksOrder(size, 'cola');
+            break;
+        case 'lemon':arguments
+            return outputDrinksOrder(size, 'lemon');
+            break;        
+       case 'orange':arguments
+            return outputDrinksOrder(size, 'orange');
+            break;
+    }
+}
+
+function outputDrinksOrder(size, drink) {
+    switch(size){
+       case 'small':arguments
+            return 'You have ordedred a small cup of ' + drink;
+            break;
+        case 'lemon':arguments
+         return 'You have ordered a small cup of ' + drink;
+         break;        
+       case 'orange':arguments
+         return 'You have ordered a small cup of ' + drink;
+         break;
+    }
+}
+
+
+console.log(drinkOrder('small','orange'));
+console.log(drinkOrder('medium','cola'));
+console.log(drinkOrder('large','lemon'));
+
+</script>

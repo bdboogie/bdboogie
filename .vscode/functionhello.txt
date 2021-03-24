@@ -1,0 +1,3 @@
+function hello() {
+    consolse.log('Hello, thisx isnt goign to be earth shattering , but wait until I get the hang of it')
+}

@@ -1,0 +1,42 @@
+---
+layout: layout/post.njk
+title: Functions and Control Flow
+templateClass: tmpl-post
+eleventyNavigation:
+    key: Functions and Control Flow
+    order:3
+---
+// Task 3
+<p> you'll need to open your browser console for this</p>
+<script type="text/javascript">
+function calculator (number1, number2, operator) {
+    switch(operator) {
+        case '+':
+            var result = number1 + number2;
+            console.log(number1, operator, number2, '=' , result);
+            break;
+         case '-':
+            var result = number1 + number2;
+            console.log(number1, operator, number2, '=' , result);
+            break;
+        case '*':
+            var result = number1 - number2;
+            console.log(number1, operator, number2, '=' , result);
+            break;               
+         case '/':
+            var result = number1 * number2;
+            console.log(number1, operator, number2, '=' , result);
+            break;
+        case '%':
+            var result = number1 / number2;
+            console.log(number1, operator, number2, '=' , result);
+            break;
+    }
+}
+
+calculator(1, 2, '+')
+calculator(10, 5, '-')
+calculator(12, 20, '*')
+calculator(45, 9, '/')
+calculator(5, 2, '%')
+</script>
